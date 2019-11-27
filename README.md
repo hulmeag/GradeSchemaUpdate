@@ -7,7 +7,7 @@ Enter File name:
 c:/temp/courselist.txt
 
 Enter User:
-********-***-****-****-**********
+**************************************
 Enter Secret :
 **************************************
 Enter URL (https://ultra-magic.blackboard.com/):

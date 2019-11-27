@@ -7,9 +7,9 @@ Enter File name:
 c:/temp/courselist.txt
 
 Enter User:
-**************************************
+XXXXXX-XXXXXX-XXXXX-XXXXX
 Enter Secret :
-**************************************
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 Enter URL (https://ultra-magic.blackboard.com/):
 https://ultra-magic.blackboard.com/
 Course to copy Grade Schema From:

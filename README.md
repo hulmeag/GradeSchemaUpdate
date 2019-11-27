@@ -10,11 +10,14 @@ Enter User:
 XXXXXX-XXXXXX-XXXXX-XXXXX
 Enter Secret :
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 Enter URL (https://ultra-magic.blackboard.com/):
 https://ultra-magic.blackboard.com/
+
 Course to copy Grade Schema From:
 origincourse
-https://support-ultra-test.blackboard.com/learn/api/public/v1/courses/courseId:origincourse/gradebook/schemas
+
+https://ultra-magic.blackboard.com/learn/api/public/v1/courses/courseId:origincourse/gradebook/schemas
 
 
 Getting current Schema for course: origincourse JSON Record {"scaleType":"Tabular","id":"_3114_1","title":"Decimal","symbols":[{"absoluteValue":100,"upperBound":100,"lowerBound":95,"text":"10"},{"absoluteValue":71.25,"upperBound":95,"lowerBound":47.5,"text":"9"},{"absoluteValue":23.75,"upperBound":47.5,"lowerBound":0,"text":"0"}]}
